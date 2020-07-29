@@ -5,6 +5,7 @@ import Heart from "./Heart";
 function App() {
   return (
     <div className="App">
+      <p>Click on the heart</p>
       <Heart />
     </div>
   );
